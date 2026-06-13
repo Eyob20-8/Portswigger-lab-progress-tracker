@@ -38,5 +38,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 2  | 2026-00-00 |     |  |  | N/A |
 | 3  | 2026-00-00 |     |  |  | N/A |
 | 4  | 2026-00-00 |     |  |  | N/A |
-| 5  | 2026-00-00 |     |  |  | N/A |
+| 5  | 2026-00-00|  | N/A |
+| 6  | 2026-00-00|  | N/A |
+
 
