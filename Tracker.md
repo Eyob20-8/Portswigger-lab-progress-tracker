@@ -6,7 +6,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 - **Apprentice**: 0 of 61
-- **Practitioner**: 0 of 174
+- **Practitioner**: 1 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
@@ -34,7 +34,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 | No | Date       | Topic          | Lab Title                                   | Difficulty  | Writeup Link |
 |----|------------|----------------|---------------------------------------------|-------------|--------------|
-| 1  | 2026-00-00 |     |  |  | N/A |
+| 1  | 2026-06-15 |  SQL Injunction   |  |  |https://portswigger.net/web-security/learning-paths/sql-injection/sql-injection-retrieving-multiple-values-within-a-single-column/sql-injection/union-attacks/lab-retrieve-multiple-values-in-single-column#  |
 | 2  | 2026-00-00 |     |  |  | N/A |
 | 3  | 2026-00-00 |     |  |  | N/A |
 | 4  | 2026-00-00 |     |  |  | N/A |
