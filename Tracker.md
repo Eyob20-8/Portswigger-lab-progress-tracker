@@ -5,14 +5,14 @@
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 1 of 61
-- **Practitioner**: 1 of 174
+- **Apprentice**: 2 of 61
+- **Practitioner**: 2 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
 
 - **Authentication vulnerabilities**: 0/14 lab
-- **SQL injection**: 2/18 lab
+- **SQL injection**: 4/18 lab
 - **Access control**: 0/13 lab
 
 ## Notes
@@ -34,16 +34,31 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 | No | Date       | Topic          | Lab Title                                   | Difficulty  | Writeup Link |
 |----|------------|----------------|---------------------------------------------|-------------|--------------|
-| 1  | 2026-06-15 |  SQL Injunction   |  SQL injection UNION attack, retrieving multiple values in a single column  | Practitioners |https://portswigger.net/web-security/learning-paths/sql-injection/sql-injection-retrieving-multiple-values-within-a-single-column/sql-injection/union-attacks/lab-retrieve-multiple-values-in-single-column#
+| 1  | 2026-06-15 |  SQL Injuction   |  SQL injection UNION attack, retrieving multiple values in a single column  | Practitioners |https://portswigger.net/web-security/learning-paths/sql-injection/sql-injection-retrieving-multiple-values-within-a-single-column/sql-injection/union-attacks/lab-retrieve-multiple-values-in-single-column#
 | 2  | 2026-06-15 |  SQL Injuction   | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | Apprentice | https://portswigger.net/web-security/learning-paths/sql-injection/sql-injection-retrieving-hidden-data/sql-injection/lab-retrieve-hidden-data#|
-| 3  | 2026-00-00 |     |  |  | N/A |
-| 4  | 2026-00-00 |     |  |  | N/A |
+| 3  | 2026-06-16 | SQL Injuction    | SQL injection vulnerability allowing login bypass  |  Apperentice|https://portswigger.net/web-security/learning-paths/sql-injection/sql-injection-subverting-application-logic/sql-injection/lab-login-bypass#  |
+| 4  | 2026-00-00 |SQL Injuction     | SQL injection UNION attack, determining the number of columns returned by the query | Practitioners  | https://portswigger.net/web-security/learning-paths/sql-injection/sql-injection-determining-the-number-of-columns-required/sql-injection/union-attacks/lab-determine-number-of-columns# |
 | 5  | 2026-00-00 |     |  |  | N/A |
 | 6  | 2026-00-00 |     |  |  | N/A |
 | 7  | 2026-00-00 |     |  |  | N/A |
 | 8  | 2026-00-00 |     |  |  | N/A |
 | 9  | 2026-00-00 |     |  |  | N/A |
 | 10  | 2026-00-00 |     |  |  | N/A |
+| 11  | 2026-00-00 |     |  |  | N/A |
+| 12  | 2026-00-00 |     |  |  | N/A |
+| 13  | 2026-00-00 |     |  |  | N/A |
+| 14  | 2026-00-00 |     |  |  | N/A |
+| 15  | 2026-00-00 |     |  |  | N/A |
+| 16  | 2026-00-00 |     |  |  | N/A |
+| 17  | 2026-00-00 |     |  |  | N/A |
+| 18  | 2026-00-00 |     |  |  | N/A |
+| 19  | 2026-00-00 |     |  |  | N/A |
+| 20  | 2026-00-00 |     |  |  | N/A |
+| 21  | 2026-00-00 |     |  |  | N/A |
+
+
+
+
 
 
 
