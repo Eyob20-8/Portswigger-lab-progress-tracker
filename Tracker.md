@@ -6,13 +6,13 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 - **Apprentice**: 2 of 61
-- **Practitioner**: 4 of 174
+- **Practitioner**: 6 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
 
 - **Authentication vulnerabilities**: 0/14 lab
-- **SQL injection**: 6/18 lab
+- **SQL injection**: 8/18 lab
 - **Access control**: 0/13 lab
 
 ## Notes
@@ -40,8 +40,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 4  | 2026-06-16 |SQL Injuction     | SQL injection UNION attack, determining the number of columns returned by the query | Practitioners  | https://portswigger.net/web-security/learning-paths/sql-injection/sql-injection-determining-the-number-of-columns-required/sql-injection/union-attacks/lab-determine-number-of-columns# |
 | 5  | 2026-06-17 |  SQL Injunction  |Blind SQL injection with conditional responses  | Practitioner| https://portswigger.net/web-security/learning-paths/sql-injection/sql-injection-exploiting-blind-sql-injection-by-triggering-conditional-responses/sql-injection/blind/lab-conditional-responses# |
 | 6  | 2026-06-17 |  SQL Injunction  | SQL injection attack, listing the database contents on non-Oracle databases |  Practitioner|https://portswigger.net/web-security/learning-paths/sql-injection/sql-injection-examining-the-database-in-sql-injection-attacks/sql-injection/examining-the-database/lab-listing-database-contents-non-oracle#  |
-| 7  | 2026-00-00 |     |  |  | N/A |
-| 8  | 2026-00-00 |     |  |  | N/A |
+| 7  | 2026-06-18 | SQL Injuction    | SQL injection attack, querying the database type and version on MySQL and Microsoft |  Practitioner| https://portswigger.net/web-security/learning-paths/sql-injection/sql-injection-examining-the-database-in-sql-injection-attacks/sql-injection/examining-the-database/lab-querying-database-version-mysql-microsoft# |
+| 8  | 2026-06-18 | SQL Injuctiion    |SQL injection UNION attack, retrieving data from other tables  |Practitioner  | https://portswigger.net/web-security/learning-paths/sql-injection/sql-injection-using-a-sql-injection-union-attack-to-retrieve-interesting-data/sql-injection/union-attacks/lab-retrieve-data-from-other-tables# |
 | 9  | 2026-00-00 |     |  |  | N/A |
 | 10  | 2026-00-00 |     |  |  | N/A |
 | 11  | 2026-00-00 |     |  |  | N/A |
