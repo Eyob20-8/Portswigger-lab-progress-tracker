@@ -6,13 +6,13 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 - **Apprentice**: 2 of 61
-- **Practitioner**: 6 of 174
+- **Practitioner**: 7 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
 
 - **Authentication vulnerabilities**: 0/14 lab
-- **SQL injection**: 8/18 lab
+- **SQL injection**: 9/18 lab
 - **Access control**: 0/13 lab
 
 ## Notes
@@ -42,7 +42,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 6  | 2026-06-17 |  SQL Injunction  | SQL injection attack, listing the database contents on non-Oracle databases |  Practitioner|https://portswigger.net/web-security/learning-paths/sql-injection/sql-injection-examining-the-database-in-sql-injection-attacks/sql-injection/examining-the-database/lab-listing-database-contents-non-oracle#  |
 | 7  | 2026-06-18 | SQL Injuction    | SQL injection attack, querying the database type and version on MySQL and Microsoft |  Practitioner| https://portswigger.net/web-security/learning-paths/sql-injection/sql-injection-examining-the-database-in-sql-injection-attacks/sql-injection/examining-the-database/lab-querying-database-version-mysql-microsoft# |
 | 8  | 2026-06-18 | SQL Injuctiion    |SQL injection UNION attack, retrieving data from other tables  |Practitioner  | https://portswigger.net/web-security/learning-paths/sql-injection/sql-injection-using-a-sql-injection-union-attack-to-retrieve-interesting-data/sql-injection/union-attacks/lab-retrieve-data-from-other-tables# |
-| 9  | 2026-00-00 |     |  |  | N/A |
+| 9  | 2026-06-19 |  SQL Injunction   |  | Practitioner| https://portswigger.net/web-security/learning-paths/sql-injection/sql-injection-error-based-sql-injection/sql-injection/blind/lab-conditional-errors# |
 | 10  | 2026-00-00 |     |  |  | N/A |
 | 11  | 2026-00-00 |     |  |  | N/A |
 | 12  | 2026-00-00 |     |  |  | N/A |
