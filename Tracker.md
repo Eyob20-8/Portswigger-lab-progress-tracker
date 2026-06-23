@@ -6,12 +6,12 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 - **Apprentice**: 2 of 61
-- **Practitioner**: 10 of 174
+- **Practitioner**: 12 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
 
-- **Authentication vulnerabilities**: 0/14 lab
+- **Authentication vulnerabilities**: 2/14 lab
 - **SQL injection**: 12/18 lab
 - **Access control**: 0/13 lab
 
@@ -46,8 +46,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 10  | 2026-06-19 | SQL Injunction    |Visible error-based SQL injection  | Practitioner | https://portswigger.net/web-security/learning-paths/sql-injection/sql-injection-error-based-sql-injection/sql-injection/blind/lab-sql-injection-visible-error-based# |
 | 11  | 2026-06-20 | SQL Injuction    | Blind SQL injection with time delays and information retrieval |Practitioner  | https://portswigger.net/web-security/learning-paths/sql-injection/sql-injection-exploiting-blind-sql-injection-by-triggering-time-delays/sql-injection/blind/lab-time-delays-info-retrieval# |
 | 12  | 2026-06-20 | SQL Injuction    | SQL injection UNION attack, finding a column containing text  | Practitioner | https://portswigger.net/web-security/learning-paths/sql-injection/sql-injection-finding-columns-with-a-useful-data-type/sql-injection/union-attacks/lab-find-column-containing-text# |
-| 13  | 2026-00-00 |     |  |  | N/A |
-| 14  | 2026-00-00 |     |  |  | N/A |
+| 13  | 2026-06-23 |  Authentication vulnerabilities   | Username enumeration via different responses | Practitioner | https://portswigger.net/web-security/learning-paths/authentication-vulnerabilities/password-based-vulnerabilities/authentication/password-based/lab-username-enumeration-via-different-responses# |
+| 14  | 2026-06-23 |  Authentication vulnerabilities | Username enumeration via subtly different responses | Practitioner | https://portswigger.net/web-security/learning-paths/authentication-vulnerabilities/password-based-vulnerabilities/authentication/password-based/lab-username-enumeration-via-subtly-different-responses# |
 | 15  | 2026-00-00 |     |  |  | N/A |
 | 16  | 2026-00-00 |     |  |  | N/A |
 | 17  | 2026-00-00 |     |  |  | N/A |
