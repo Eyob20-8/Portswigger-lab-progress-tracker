@@ -5,8 +5,8 @@
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 2 of 61
-- **Practitioner**: 12 of 174
+- **Apprentice**: 3 of 61
+- **Practitioner**: 11 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
@@ -46,7 +46,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 10  | 2026-06-19 | SQL Injunction    |Visible error-based SQL injection  | Practitioner | https://portswigger.net/web-security/learning-paths/sql-injection/sql-injection-error-based-sql-injection/sql-injection/blind/lab-sql-injection-visible-error-based# |
 | 11  | 2026-06-20 | SQL Injuction    | Blind SQL injection with time delays and information retrieval |Practitioner  | https://portswigger.net/web-security/learning-paths/sql-injection/sql-injection-exploiting-blind-sql-injection-by-triggering-time-delays/sql-injection/blind/lab-time-delays-info-retrieval# |
 | 12  | 2026-06-20 | SQL Injuction    | SQL injection UNION attack, finding a column containing text  | Practitioner | https://portswigger.net/web-security/learning-paths/sql-injection/sql-injection-finding-columns-with-a-useful-data-type/sql-injection/union-attacks/lab-find-column-containing-text# |
-| 13  | 2026-06-23 |  Authentication vulnerabilities   | Username enumeration via different responses | Practitioner | https://portswigger.net/web-security/learning-paths/authentication-vulnerabilities/password-based-vulnerabilities/authentication/password-based/lab-username-enumeration-via-different-responses# |
+| 13  | 2026-06-23 |  Authentication vulnerabilities   | Username enumeration via different responses | Apprentice | https://portswigger.net/web-security/learning-paths/authentication-vulnerabilities/password-based-vulnerabilities/authentication/password-based/lab-username-enumeration-via-different-responses# |
 | 14  | 2026-06-23 |  Authentication vulnerabilities | Username enumeration via subtly different responses | Practitioner | https://portswigger.net/web-security/learning-paths/authentication-vulnerabilities/password-based-vulnerabilities/authentication/password-based/lab-username-enumeration-via-subtly-different-responses# |
 | 15  | 2026-00-00 |     |  |  | N/A |
 | 16  | 2026-00-00 |     |  |  | N/A |
