@@ -6,7 +6,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 - **Apprentice**: 3 of 61
-- **Practitioner**: 14 of 174
+- **Practitioner**: 15 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
@@ -51,7 +51,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 15  | 2026-06-25 | Authentication vulnerabilities  | Username enumeration via response timing | Practitioner | N/A |
 | 16  | 2026-06-25 |  Authentication vulnerabilities   | Broken brute-force protection, IP block | Practitioner | N/A |
 | 17  | 2026-06-25 |  Authentication vulnerabilities   | Username enumeration via account lock | Practitioner | N/A |
-| 18  | 2026-06-25 |  Authentication vulnerabilities   |  |  | N/A |
+| 18  | 2026-06-25 |  Authentication vulnerabilities   | 2FA simple bypass | Practitioner | N/A |
 | 19  | 2026-00-00 |     |  |  | N/A |
 | 20  | 2026-00-00 |     |  |  | N/A |
 | 21  | 2026-00-00 |     |  |  | N/A |
