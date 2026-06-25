@@ -6,12 +6,12 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 - **Apprentice**: 3 of 61
-- **Practitioner**: 11 of 174
+- **Practitioner**: 13 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
 
-- **Authentication vulnerabilities**: 3/14 lab
+- **Authentication vulnerabilities**: 5/14 lab
 - **SQL injection**: 12/18 lab
 - **Access control**: 0/13 lab
 
@@ -49,12 +49,16 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 13  | 2026-06-23 |  Authentication vulnerabilities   | Username enumeration via different responses | Apprentice | https://portswigger.net/web-security/learning-paths/authentication-vulnerabilities/password-based-vulnerabilities/authentication/password-based/lab-username-enumeration-via-different-responses# |
 | 14  | 2026-06-23 |  Authentication vulnerabilities | Username enumeration via subtly different responses | Practitioner | https://portswigger.net/web-security/learning-paths/authentication-vulnerabilities/password-based-vulnerabilities/authentication/password-based/lab-username-enumeration-via-subtly-different-responses# |
 | 15  | 2026-06-25 | Authentication vulnerabilities  | Username enumeration via response timing | Practitioner | N/A |
-| 16  | 2026-06-25 |  Authentication vulnerabilities   |  |  | N/A |
+| 16  | 2026-06-25 |  Authentication vulnerabilities   | Broken brute-force protection, IP block | Practitioner | N/A |
 | 17  | 2026-06-25 |  Authentication vulnerabilities   |  |  | N/A |
 | 18  | 2026-06-25 |  Authentication vulnerabilities   |  |  | N/A |
 | 19  | 2026-00-00 |     |  |  | N/A |
 | 20  | 2026-00-00 |     |  |  | N/A |
 | 21  | 2026-00-00 |     |  |  | N/A |
+| 22  | 2026-00-00 |     |  |  | N/A |
+| 23  | 2026-00-00 |     |  |  | N/A |
+| 24  | 2026-00-00 |     |  |  | N/A |
+
 
 
 
