@@ -11,7 +11,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Categories Covered
 
-- **Authentication vulnerabilities**: 5/14 lab
+- **Authentication vulnerabilities**: 6/14 lab
 - **SQL injection**: 12/18 lab
 - **Access control**: 0/13 lab
 
