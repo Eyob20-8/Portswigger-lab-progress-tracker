@@ -11,7 +11,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Categories Covered
 
-- **Authentication vulnerabilities**: 2/14 lab
+- **Authentication vulnerabilities**: 3/14 lab
 - **SQL injection**: 12/18 lab
 - **Access control**: 0/13 lab
 
@@ -48,10 +48,10 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 12  | 2026-06-20 | SQL Injuction    | SQL injection UNION attack, finding a column containing text  | Practitioner | https://portswigger.net/web-security/learning-paths/sql-injection/sql-injection-finding-columns-with-a-useful-data-type/sql-injection/union-attacks/lab-find-column-containing-text# |
 | 13  | 2026-06-23 |  Authentication vulnerabilities   | Username enumeration via different responses | Apprentice | https://portswigger.net/web-security/learning-paths/authentication-vulnerabilities/password-based-vulnerabilities/authentication/password-based/lab-username-enumeration-via-different-responses# |
 | 14  | 2026-06-23 |  Authentication vulnerabilities | Username enumeration via subtly different responses | Practitioner | https://portswigger.net/web-security/learning-paths/authentication-vulnerabilities/password-based-vulnerabilities/authentication/password-based/lab-username-enumeration-via-subtly-different-responses# |
-| 15  | 2026-00-00 |     |  |  | N/A |
-| 16  | 2026-00-00 |     |  |  | N/A |
-| 17  | 2026-00-00 |     |  |  | N/A |
-| 18  | 2026-00-00 |     |  |  | N/A |
+| 15  | 2026-06-25 | Authentication vulnerabilities  | Username enumeration via response timing | Practitioner | N/A |
+| 16  | 2026-06-25 |  Authentication vulnerabilities   |  |  | N/A |
+| 17  | 2026-06-25 |  Authentication vulnerabilities   |  |  | N/A |
+| 18  | 2026-06-25 |  Authentication vulnerabilities   |  |  | N/A |
 | 19  | 2026-00-00 |     |  |  | N/A |
 | 20  | 2026-00-00 |     |  |  | N/A |
 | 21  | 2026-00-00 |     |  |  | N/A |
