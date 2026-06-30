@@ -5,8 +5,8 @@
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 4 of 61
-- **Practitioner**: 19 of 174
+- **Apprentice**: 5 of 61
+- **Practitioner**: 20 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
@@ -57,8 +57,23 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 21  | 2026-06-26 | Authentication vulnerabilities    | Offline password cracking | Practitioner | N/A |
 | 22  | 2026-06-27 |  Authentication vulnerabilities  | Password reset broken logic | Apprentice | N/A |
 | 23  | 2026-06-27 |  Authentication vulnerabilities   | Password reset poisoning via middleware  | Practitioner | N/A |
-| 24  | 2026-00-00 |     |  |  | N/A |
-
+| 24  | 2026-06-30 |  Command injunction  | OS command injection, simple case | Apprentice | N/A |
+| 25  | 2026-06-30 |  Command injunction  | |  | N/A |
+| 26  | 2026-06-30 |  Command injunction  | |  | N/A |
+| 27  | 2026-06-30 |  Command injunction  | |  | N/A |
+| 28  | 2026-06-30 |  Command injunction  | |  | N/A |
+| 29  | 2026-06-30 |  Command injunction  | |  | N/A |
+| 30  | 2026-06-30 |  Command injunction  | |  | N/A |
+| 31  | 2026-06-30 |  Command injunction  | |  | N/A |
+| 32  | 2026-06-30 |  Command injunction  | |  | N/A |
+| 33  | 2026-06-30 |  Command injunction  | |  | N/A |
+| 34  | 2026-06-30 |  Command injunction  | |  | N/A |
+| 35  | 2026-06-30 |  Command injunction  | |  | N/A |
+| 36  | 2026-06-30 |  Command injunction  | |  | N/A |
+| 37  | 2026-06-30 |  Command injunction  | |  | N/A |
+| 38  | 2026-06-30 |  Command injunction  | |  | N/A |
+| 39  | 2026-06-30 |  Command injunction  | |  | N/A |
+| 40  | 2026-06-30 |  Command injunction  | |  | N/A |
 
 
 
