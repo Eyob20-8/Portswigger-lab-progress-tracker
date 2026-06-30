@@ -58,7 +58,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 22  | 2026-06-27 |  Authentication vulnerabilities  | Password reset broken logic | Apprentice | N/A |
 | 23  | 2026-06-27 |  Authentication vulnerabilities   | Password reset poisoning via middleware  | Practitioner | N/A |
 | 24  | 2026-06-30 |  Command injunction  | OS command injection, simple case | Apprentice | N/A |
-| 25  | 2026-06-30 |  Command injunction  | |  | N/A |
+| 25  | 2026-06-30 |  Command injunction  | Blind OS command injection with time delays | Practitioner | N/A |
 | 26  | 2026-06-30 |  Command injunction  | |  | N/A |
 | 27  | 2026-06-30 |  Command injunction  | |  | N/A |
 | 28  | 2026-06-30 |  Command injunction  | |  | N/A |
