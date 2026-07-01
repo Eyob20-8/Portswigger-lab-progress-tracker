@@ -61,8 +61,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 25  | 2026-06-30 |  Command injunction  | Blind OS command injection with time delays | Practitioner | N/A |
 | 26  | 2026-07-01 |  Command injunction  | Blind OS command injection with output redirection | Practitioner | N/A |
 | 27  | 2026-07-01 |  Command injunction  | Blind OS command injection with out-of-band interaction | Practitioner | N/A |
-| 28  | 2026-07-01 |  Command injunction  | Blind OS command injection with out-of-band data exfiltration
- | Practitioner | N/A |
+| 28  | 2026-07-01 |  Command injunction  | Blind OS command injection with out-of-band data exfiltration| Practitioner | N/A |
 | 29  | 2026-06-30 |  Command injunction  | |  | N/A |
 | 30  | 2026-06-30 |  Command injunction  | |  | N/A |
 | 31  | 2026-06-30 |  Command injunction  | |  | N/A |
