@@ -6,7 +6,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 - **Apprentice**: 5 of 61
-- **Practitioner**: 20 of 174
+- **Practitioner**: 23 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
@@ -59,9 +59,10 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 23  | 2026-06-27 |  Authentication vulnerabilities   | Password reset poisoning via middleware  | Practitioner | N/A |
 | 24  | 2026-06-30 |  Command injunction  | OS command injection, simple case | Apprentice | N/A |
 | 25  | 2026-06-30 |  Command injunction  | Blind OS command injection with time delays | Practitioner | N/A |
-| 26  | 2026-06-30 |  Command injunction  | |  | N/A |
-| 27  | 2026-06-30 |  Command injunction  | |  | N/A |
-| 28  | 2026-06-30 |  Command injunction  | |  | N/A |
+| 26  | 2026-07-01 |  Command injunction  | Blind OS command injection with output redirection | Practitioner | N/A |
+| 27  | 2026-07-01 |  Command injunction  | Blind OS command injection with out-of-band interaction | Practitioner | N/A |
+| 28  | 2026-07-01 |  Command injunction  | Blind OS command injection with out-of-band data exfiltration
+ | Practitioner | N/A |
 | 29  | 2026-06-30 |  Command injunction  | |  | N/A |
 | 30  | 2026-06-30 |  Command injunction  | |  | N/A |
 | 31  | 2026-06-30 |  Command injunction  | |  | N/A |
