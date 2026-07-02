@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-23-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--27-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-7.4%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-31-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--02-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-7.4%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 5 of 61
-- **Practitioner**: 23 of 174
+- **Apprentice**: 6 of 61
+- **Practitioner**: 25 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
@@ -62,9 +62,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 26  | 2026-07-01 |  Command injunction  | Blind OS command injection with output redirection | Practitioner | N/A |
 | 27  | 2026-07-01 |  Command injunction  | Blind OS command injection with out-of-band interaction | Practitioner | N/A |
 | 28  | 2026-07-01 |  Command injunction  | Blind OS command injection with out-of-band data exfiltration| Practitioner | N/A |
-| 29  | 2026-06-30 |  Command injunction  | |  | N/A |
-| 30  | 2026-06-30 |  Command injunction  | |  | N/A |
-| 31  | 2026-06-30 |  Command injunction  | |  | N/A |
+| 29  | 2026-07-02 |  Path tranversal  |  File path traversal, simple case | Apprentice | N/A |
+| 30  | 2026-07-02 |  Path tranversal | File path traversal, traversal sequences blocked with absolute path bypass | Practitoner | N/A |
+| 31  | 2026-06-02 |  Path tranversal  | File path traversal, traversal sequences stripped non-recursively | Practitioner | N/A |
 | 32  | 2026-06-30 |  Command injunction  | |  | N/A |
 | 33  | 2026-06-30 |  Command injunction  | |  | N/A |
 | 34  | 2026-06-30 |  Command injunction  | |  | N/A |
