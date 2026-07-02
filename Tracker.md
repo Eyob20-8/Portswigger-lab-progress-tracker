@@ -62,9 +62,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 26  | 2026-07-01 |  Command injunction  | Blind OS command injection with output redirection | Practitioner | N/A |
 | 27  | 2026-07-01 |  Command injunction  | Blind OS command injection with out-of-band interaction | Practitioner | N/A |
 | 28  | 2026-07-01 |  Command injunction  | Blind OS command injection with out-of-band data exfiltration| Practitioner | N/A |
-| 29  | 2026-07-02 |  Path tranversal  |  File path traversal, simple case | Apprentice | N/A |
-| 30  | 2026-07-02 |  Path tranversal | File path traversal, traversal sequences blocked with absolute path bypass | Practitoner | N/A |
-| 31  | 2026-06-02 |  Path tranversal  | File path traversal, traversal sequences stripped non-recursively | Practitioner | N/A |
+| 29  | 2026-07-02 |  Path traversal  |  File path traversal, simple case | Apprentice | N/A |
+| 30  | 2026-07-02 |  Path traversal | File path traversal, traversal sequences blocked with absolute path bypass | Practitoner | N/A |
+| 31  | 2026-06-02 |  Path traversal  | File path traversal, traversal sequences stripped non-recursively | Practitioner | N/A |
 | 32  | 2026-06-30 |  Command injunction  | |  | N/A |
 | 33  | 2026-06-30 |  Command injunction  | |  | N/A |
 | 34  | 2026-06-30 |  Command injunction  | |  | N/A |
