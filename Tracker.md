@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-31-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--02-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-7.4%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-34-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--03-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-8.4%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 6 of 61
-- **Practitioner**: 25 of 174
+- **Practitioner**: 28 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
@@ -64,11 +64,11 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 28  | 2026-07-01 |  Command injunction  | Blind OS command injection with out-of-band data exfiltration| Practitioner | N/A |
 | 29  | 2026-07-02 |  Path traversal  |  File path traversal, simple case | Apprentice | N/A |
 | 30  | 2026-07-02 |  Path traversal | File path traversal, traversal sequences blocked with absolute path bypass | Practitoner | N/A |
-| 31  | 2026-06-02 |  Path traversal  | File path traversal, traversal sequences stripped non-recursively | Practitioner | N/A |
-| 32  | 2026-06-30 |  Command injunction  | |  | N/A |
-| 33  | 2026-06-30 |  Command injunction  | |  | N/A |
-| 34  | 2026-06-30 |  Command injunction  | |  | N/A |
-| 35  | 2026-06-30 |  Command injunction  | |  | N/A |
+| 31  | 2026-07-02 |  Path traversal  | File path traversal, traversal sequences stripped non-recursively | Practitioner | N/A |
+| 32  | 2026-07-03 | Path traversal  | File path traversal, traversal sequences stripped with superfluous URL-decode | Practitioner | N/A |
+| 33  | 2026-07-03 |  Path traversal  | File path traversal, validation of start of path | Practitioner | N/A |
+| 34  | 2026-07-03 |  Path traversal  | File path traversal, validation of file extension with null byte bypass | Practitioner | N/A |
+| 35  | 2026-07-30 |  Command injunction  | |  | N/A |
 | 36  | 2026-06-30 |  Command injunction  | |  | N/A |
 | 37  | 2026-06-30 |  Command injunction  | |  | N/A |
 | 38  | 2026-06-30 |  Command injunction  | |  | N/A |
