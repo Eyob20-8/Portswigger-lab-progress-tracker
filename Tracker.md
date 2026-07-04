@@ -68,8 +68,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 32  | 2026-07-03 | Path traversal  | File path traversal, traversal sequences stripped with superfluous URL-decode | Practitioner | N/A |
 | 33  | 2026-07-03 |  Path traversal  | File path traversal, validation of start of path | Practitioner | N/A |
 | 34  | 2026-07-03 |  Path traversal  | File path traversal, validation of file extension with null byte bypass | Practitioner | N/A |
-| 35  | 2026-07-30 |  SQL Injuction  | |  | N/A |
-| 36  | 2026-06-30 |  Command injunction  | SQL injection attack, querying the database type and version on Oracle | Practitioner | N/A |
+| 35  | 2026-07-04 |  SQL Injuction  | |  | N/A |
+| 36  | 2026-07-04 |  SQL Injuction  | SQL injection attack, querying the database type and version on Oracle | Practitioner | N/A |
 | 37  | 2026-06-30 |  Command injunction  | |  | N/A |
 | 38  | 2026-06-30 |  Command injunction  | |  | N/A |
 | 39  | 2026-06-30 |  Command injunction  | |  | N/A |
