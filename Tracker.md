@@ -1,18 +1,18 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-34-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--03-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-8.4%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-35-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--03-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-8.4%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 6 of 61
-- **Practitioner**: 28 of 174
+- **Practitioner**: 29 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
 
 - **Authentication vulnerabilities**: 11/14 lab
-- **SQL injection**: 12/18 lab
+- **SQL injection**: 13/18 lab
 - **Access control**: 0/13 lab
 
 ## Notes
@@ -68,12 +68,44 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 32  | 2026-07-03 | Path traversal  | File path traversal, traversal sequences stripped with superfluous URL-decode | Practitioner | N/A |
 | 33  | 2026-07-03 |  Path traversal  | File path traversal, validation of start of path | Practitioner | N/A |
 | 34  | 2026-07-03 |  Path traversal  | File path traversal, validation of file extension with null byte bypass | Practitioner | N/A |
-| 35  | 2026-07-30 |  Command injunction  | |  | N/A |
-| 36  | 2026-06-30 |  Command injunction  | |  | N/A |
+| 35  | 2026-07-30 |  SQL Injuction  | |  | N/A |
+| 36  | 2026-06-30 |  Command injunction  | SQL injection attack, querying the database type and version on Oracle | Practitioner | N/A |
 | 37  | 2026-06-30 |  Command injunction  | |  | N/A |
 | 38  | 2026-06-30 |  Command injunction  | |  | N/A |
 | 39  | 2026-06-30 |  Command injunction  | |  | N/A |
-| 40  | 2026-06-30 |  Command injunction  | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
+| 40  | 2026-07-30 |   | |  | N/A |
 
 
 
