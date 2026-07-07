@@ -1,11 +1,11 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-37-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--04-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-8.4%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-40-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--07-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-9.4%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 6 of 61
+- **Apprentice**: 9 of 61
 - **Practitioner**: 31 of 174
 - **Expert**: 0 of 39
 
@@ -13,7 +13,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 - **Authentication vulnerabilities**: 11/14 lab
 - **SQL injection**: 14/18 lab
-- **Access control**: 0/13 lab
+- **Access control**: 3/13 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -71,9 +71,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 35  | 2026-07-04 |  SQL Injuction  | SQL injection attack, listing the database contents on Oracle | Practitioner | N/A |
 | 36  | 2026-07-04 |  SQL Injuction  | SQL injection attack, querying the database type and version on Oracle | Practitioner | N/A |
 | 37  | 2026-07-04 |  SQL Injuction  | Blind SQL injection with time delays | Practitioner | N/A |
-| 38  | 2026-07-30 |  Command injunction  | |  | N/A |
-| 39  | 2026-07-30 |  Command injunction  | |  | N/A |
-| 40  | 2026-07-30 |   | |  | N/A |
+| 38  | 2026-07-07 |  Access control | User role controlled by request parameter  | Apprentice | N/A |
+| 39  | 2026-07-07 |  Access control | Unprotected admin functionality with unpredictable URL | Apprentice | N/A |
+| 40  | 2026-07-07 | Access control | Unprotected admin functionality | Apprentice | N/A |
 | 40  | 2026-07-30 |   | |  | N/A |
 | 40  | 2026-07-30 |   | |  | N/A |
 | 40  | 2026-07-30 |   | |  | N/A |
