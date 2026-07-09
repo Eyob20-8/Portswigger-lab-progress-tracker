@@ -1,19 +1,19 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-43-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--08-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-9.9%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-45-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--09-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-9.9%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 12 of 61
-- **Practitioner**: 31 of 174
+- **Practitioner**: 33 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
 
 - **Authentication vulnerabilities**: 11/14 lab
-- **SQL injection**: 14/18 lab
-- **Access control**: 6/13 lab
+- **SQL injection**: 14/18 lab 
+- **Access control**: 8/14 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -77,8 +77,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 41  | 2026-07-08 | Access control | User role can be modified in user profile | Apprentice | N/A |
 | 42  | 2026-07-08 |  Access control | User ID controlled by request parameter | Apprentice  | N/A |
 | 43  | 2026-07-08 | Access control | User ID controlled by request parameter, with unpredictable user IDs | Apprentice | N/A |
-| 44  | 2026-07-30 |   | | Apprentice | N/A |
-| 45  | 2026-07-30 |   | |  | N/A |
+| 44  | 2026-07-09 |  Access control  |  URL-based access control can be circumvented | Practitioner | N/A |
+| 45  | 2026-07-09 |  Access control  | Method-based access control can be circumvented | Practitioner | N/A |
 | 46  | 2026-07-30 |   | |  | N/A |
 | 47  | 2026-07-30 |   | |  | N/A |
 | 48  | 2026-07-30 |   | |  | N/A |
