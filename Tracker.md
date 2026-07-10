@@ -1,19 +1,19 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-45-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--09-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-9.9%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-50-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--10-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-9.9%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 12 of 61
-- **Practitioner**: 33 of 174
+- **Apprentice**: 15 of 61
+- **Practitioner**: 35 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
 
 - **Authentication vulnerabilities**: 11/14 lab
 - **SQL injection**: 14/18 lab 
-- **Access control**: 8/14 lab
+- **Access control**: 13/14 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -79,11 +79,11 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 43  | 2026-07-08 | Access control | User ID controlled by request parameter, with unpredictable user IDs | Apprentice | N/A |
 | 44  | 2026-07-09 |  Access control  |  URL-based access control can be circumvented | Practitioner | N/A |
 | 45  | 2026-07-09 |  Access control  | Method-based access control can be circumvented | Practitioner | N/A |
-| 46  | 2026-07-30 |   | |  | N/A |
-| 47  | 2026-07-30 |   | |  | N/A |
-| 48  | 2026-07-30 |   | |  | N/A |
-| 49  | 2026-07-30 |   | |  | N/A |
-| 50  | 2026-07-30 |   | |  | N/A |
+| 46  | 2026-07-10 | Access control | User ID controlled by request parameter with data leakage in redirect | Apprentice | N/A |
+| 47  | 2026-07-10 | Access control  | User ID controlled by request parameter with password disclosure | Apprentice | N/A |
+| 48  | 2026-07-10 | Access control  | Insecure direct object references | Apprentice | N/A |
+| 49  | 2026-07-10 | Access control  | Multi-step process with no access control on one step | Practitioner | N/A |
+| 50  | 2026-07-10 | Access control  | Referer-based access control | Practitioner | N/A |
 | 51  | 2026-07-30 |   | |  | N/A |
 | 52  | 2026-07-30 |   | |  | N/A |
 | 53  | 2026-07-30 |   | |  | N/A |
