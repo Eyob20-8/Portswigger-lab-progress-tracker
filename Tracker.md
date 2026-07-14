@@ -1,18 +1,18 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-50-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--10-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-9.9%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-59-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--14-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-14.9%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 15 of 61
-- **Practitioner**: 35 of 174
+- **Apprentice**: 17 of 61
+- **Practitioner**: 42 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
 
 - **Authentication vulnerabilities**: 11/14 lab
-- **SQL injection**: 14/18 lab 
+- **SQL injection**: 18/18 lab 
 - **Access control**: 13/14 lab
 
 ## Notes
@@ -84,16 +84,16 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 48  | 2026-07-10 | Access control  | Insecure direct object references | Apprentice | N/A |
 | 49  | 2026-07-10 | Access control  | Multi-step process with no access control on one step | Practitioner | N/A |
 | 50  | 2026-07-10 | Access control  | Referer-based access control | Practitioner | N/A |
-| 51  | 2026-07-30 |   | |  | N/A |
-| 52  | 2026-07-30 |   | |  | N/A |
-| 53  | 2026-07-30 |   | |  | N/A |
-| 54  | 2026-07-30 |   | |  | N/A |
-| 55  | 2026-07-30 |   | |  | N/A |
-| 56  | 2026-07-30 |   | |  | N/A |
-| 57  | 2026-07-30 |   | |  | N/A |
-| 58  | 2026-07-30 |   | |  | N/A |
-| 59  | 2026-07-30 |   | |  | N/A |
-| 60  | 2026-07-30 |   | |  | N/A |
+| 51  | 2026-07-14 | SQL Injunction  | Blind SQL injection with out-of-band interaction | Practitioner | N/A |
+| 52  | 2026-07-14 | SQL Injunction  | Blind SQL injection with out-of-band data exfiltration | Practitioner | N/A |
+| 53  | 2026-07-14 | SQL Injunction  | SQL injection with filter bypass via XML encoding | Practitioner | N/A |
+| 54  | 2026-07-14 | File upload vulnerability  | Remote code execution via web shell upload | Apprentice | N/A |
+| 55  | 2026-07-14 |  File upload vulnerability | Web shell upload via Content-Type restriction bypass | Apprentice | N/A |
+| 56  | 2026-07-14 | File upload vulnerability  | Web shell upload via path traversal | Practitioner | N/A |
+| 57  | 2026-07-14 |  File upload vulnerability | Web shell upload via extension blacklist bypass | Practitioner | N/A |
+| 58  | 2026-07-14 | File upload vulnerability  | Web shell upload via obfuscated file extension | Practitioner | N/A |
+| 59  | 2026-07-14 | File upload vulnerability  | Remote code execution via polyglot web shell upload | Practitioner | N/A |
+| 60  | 2026-07-30 | File upload vulnerability | |  | N/A |
 | 61  | 2026-07-30 |   | |  | N/A |
 | 62  | 2026-07-30 |   | |  | N/A |
 | 63  | 2026-07-30 |   | |  | N/A |
@@ -106,8 +106,11 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 70  | 2026-07-30 |   | |  | N/A |
 | 71  | 2026-07-30 |   | |  | N/A |
 | 72  | 2026-07-30 |   | |  | N/A |
-
-
+| 73  | 2026-07-30 |   | |  | N/A |
+| 74  | 2026-07-30 |   | |  | N/A |
+| 75  | 2026-07-30 |   | |  | N/A |
+| 76  | 2026-07-30 |   | |  | N/A |
+| 77  | 2026-07-30 |   | |  | N/A |
 
 
 
