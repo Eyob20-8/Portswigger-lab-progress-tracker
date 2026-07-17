@@ -1,11 +1,11 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-67-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--16-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-15.7%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-72-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--17-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-15.7%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 18 of 61
+- **Apprentice**: 23 of 61
 - **Practitioner**: 47 of 174
 - **Expert**: 2 of 39
 
@@ -101,11 +101,11 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 65  | 2026-07-16 |  OAuth authentication | Forced OAuth profile linking | Practitioner | N/A |
 | 66  | 2026-07-16 |  OAuth authentication | OAuth account hijacking via redirect_uri | Practitioner | N/A |
 | 67  | 2026-07-16 | OAuth authentication  | Stealing OAuth access tokens via an open redirect | Practitioner | N/A |
-| 68  | 2026-07-30 |   | |  | N/A |
-| 69  | 2026-07-30 |   | |  | N/A |
-| 70  | 2026-07-30 |   | |  | N/A |
-| 71  | 2026-07-30 |   | |  | N/A |
-| 72  | 2026-07-30 |   | |  | N/A |
+| 68  | 2026-07-17 | Cross-site scripting  | Reflected XSS into HTML context with nothing encoded | APPRENTICE | N/A |
+| 69  | 2026-07-17 | Cross-site scripting  | Stored XSS into HTML context with nothing encoded | APPRENTICE | N/A |
+| 70  | 2026-07-17 | Cross-site scripting  |  DOM XSS in document.write sink using source location.search | APPRENTICE | N/A |
+| 71  | 2026-07-17 | Cross-site scripting  | DOM XSS in innerHTML sink using source location.search | APPRENTICE | N/A |
+| 72  | 2026-07-17 | Cross-site scripting  | DOM XSS in jQuery anchor href attribute sink using location.search source | APPRENTICE | N/A |
 | 73  | 2026-07-30 |   | |  | N/A |
 | 74  | 2026-07-30 |   | |  | N/A |
 | 75  | 2026-07-30 |   | |  | N/A |
