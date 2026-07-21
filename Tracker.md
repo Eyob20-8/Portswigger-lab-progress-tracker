@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-77-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--19-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-15.7%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-79-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--21-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-15.7%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 27 of 61
-- **Practitioner**: 48 of 174
+- **Apprentice**: 28 of 61
+- **Practitioner**: 49 of 174
 - **Expert**: 2 of 39
 
 ## Categories Covered
@@ -111,8 +111,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 75  | 2026-07-19 |  Cross-site scripting | Stored XSS into anchor href attribute with double quotes HTML-encoded | APPRENTICE | N/A |
 | 76  | 2026-07-19 |  Cross-site scripting | Reflected XSS into a JavaScript string with angle brackets HTML encoded | APPRENTICE | N/A |
 | 77  | 2026-07-19 |  Cross-site scripting | DOM XSS in document.write sink using source location.search inside a select element | Practitioner | N/A |
-| 78  | 2026-07-30 |   | |  | N/A |
-| 79  | 2026-07-30 |   | |  | N/A |
+| 78  | 2026-07-21 | Race condition  |  Multi-endpoint race conditions | Practitioner | N/A |
+| 79  | 2026-07-21 | Race condition  |Limit overrun race conditions | apprentice  | N/A |
 | 80  | 2026-07-30 |   | |  | N/A |
 | 81  | 2026-07-30 |   | |  | N/A |
 | 82  | 2026-07-30 |   | |  | N/A |
