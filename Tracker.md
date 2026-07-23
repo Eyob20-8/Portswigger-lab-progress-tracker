@@ -14,8 +14,15 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Authentication vulnerabilities**: 12/14 lab
 - **SQL injection**: 18/18 lab 
 - **Access control**: 13/14 lab
-- **Command injunction
+- **Path traversal**: 6/6 lab
+- **Command injunction**: 5/5 lab
+- **File upload vulnerability**: 13/14 lab
+- **OAuth authentication**: 13/14 lab
+- **Cross-site scripting **: 13/14 lab
+- **Race condition**: 13/14 lab
 
+
+  
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
 - **Tools Used**: Burp Suite
