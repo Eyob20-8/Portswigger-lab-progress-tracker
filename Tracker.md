@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-82-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--21-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-15.7%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-85-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--23-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-15.7%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 28 of 61
-- **Practitioner**: 52 of 174
+- **Practitioner**: 55 of 174
 - **Expert**: 2 of 39
 
 ## Categories Covered
@@ -14,6 +14,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Authentication vulnerabilities**: 12/14 lab
 - **SQL injection**: 18/18 lab 
 - **Access control**: 13/14 lab
+- **Command injunction
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -116,9 +117,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 80  | 2026-07-22 | Race condition  | Bypassing rate limits via race conditions | Practitioner | N/A |
 | 81  | 2026-07-22 | Race condition  | Single-endpoint race conditions | Practitioner | N/A |
 | 82  | 2026-07-22 | Race condition  | Exploiting time-sensitive vulnerabilities | Practitioner | N/A |
-| 83  | 2026-07-30 |   | |  | N/A |
-| 84  | 2026-07-30 |   | |  | N/A |
-| 85  | 2026-07-30 |   | |  | N/A |
+| 83  | 2026-07-30 | Cross-site scripting  |DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded | Practitioner | N/A |
+| 84  | 2026-07-30 | Cross-site scripting  | Reflected DOM XSS | Practitioner | N/A |
+| 85  | 2026-07-30 | Cross-site scripting  | Stored DOM XSS | Practitioner | N/A |
 | 86  | 2026-07-30 |   | |  | N/A |
 | 77  | 2026-07-30 |   | |  | N/A |
 | 77  | 2026-07-30 |   | |  | N/A |
