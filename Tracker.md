@@ -6,7 +6,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 - **Apprentice**: 28 of 61
-- **Practitioner**: 55 of 174
+- **Practitioner**: 58 of 174
 - **Expert**: 2 of 39
 
 ## Categories Covered
@@ -127,11 +127,11 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 83  | 2026-07-23 | Cross-site scripting  |DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded | Practitioner | N/A |
 | 84  | 2026-07-23 | Cross-site scripting  | Reflected DOM XSS | Practitioner | N/A |
 | 85  | 2026-07-23 | Cross-site scripting  | Stored DOM XSS | Practitioner | N/A |
-| 86  | 2026-07-30 |   | |  | N/A |
-| 77  | 2026-07-30 |   | |  | N/A |
-| 77  | 2026-07-30 |   | |  | N/A |
-| 77  | 2026-07-30 |   | |  | N/A |
-| 77  | 2026-07-30 |   | |  | N/A |
+| 86  | 2026-07-24 | Cross-site scripting | Reflected XSS into HTML context with most tags and attributes blocked | Practitioner  | N/A |
+| 87  | 2026-07-24 | Cross-site scripting | Reflected XSS into HTML context with all tags blocked except custom ones | Practitioner | N/A |
+| 88  | 2026-07-24 | Cross-site scripting | Reflected XSS with some SVG markup allowed | Practitioner | N/A |
+| 89  | 2026-07-30 |   | |  | N/A |
+| 90  | 2026-07-30 |   | |  | N/A |
 | 77  | 2026-07-30 |   | |  | N/A |
 | 77  | 2026-07-30 |   | |  | N/A |
 | 77  | 2026-07-30 |   | |  | N/A |
