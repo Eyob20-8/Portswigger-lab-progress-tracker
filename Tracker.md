@@ -124,9 +124,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 80  | 2026-07-22 | Race condition  | Bypassing rate limits via race conditions | Practitioner | N/A |
 | 81  | 2026-07-22 | Race condition  | Single-endpoint race conditions | Practitioner | N/A |
 | 82  | 2026-07-22 | Race condition  | Exploiting time-sensitive vulnerabilities | Practitioner | N/A |
-| 83  | 2026-07-30 | Cross-site scripting  |DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded | Practitioner | N/A |
-| 84  | 2026-07-30 | Cross-site scripting  | Reflected DOM XSS | Practitioner | N/A |
-| 85  | 2026-07-30 | Cross-site scripting  | Stored DOM XSS | Practitioner | N/A |
+| 83  | 2026-07-23 | Cross-site scripting  |DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded | Practitioner | N/A |
+| 84  | 2026-07-23 | Cross-site scripting  | Reflected DOM XSS | Practitioner | N/A |
+| 85  | 2026-07-23 | Cross-site scripting  | Stored DOM XSS | Practitioner | N/A |
 | 86  | 2026-07-30 |   | |  | N/A |
 | 77  | 2026-07-30 |   | |  | N/A |
 | 77  | 2026-07-30 |   | |  | N/A |
