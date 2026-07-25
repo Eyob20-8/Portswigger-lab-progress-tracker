@@ -1,4 +1,4 @@
-Vulnerbitiy: Path transversal
+Vulnerabilitiy: Path transversal
 Level: Appenrentice,Practitioner
 The common Path transversal vulnerabilitys are 
 - File path traversal, simple case:
@@ -23,7 +23,7 @@ The common Path transversal vulnerabilitys are
     Step3:As result /etc/passwd file will appper.
   3.Lab:File path traversal, traversal sequences stripped non-recursively
     Step1:click the detail of one the product which is listed.
-    Step2:intercept and modify the image request  filename parameter into ..//..//..//etc/passwd.
+    Step2:intercept and modify the image request  filename parameter into ....//....//....//etc/passwd.
     Step3:As result etc/passwd file will appper.
   4.Lab: File path traversal, traversal sequences stripped with superfluous URL-decode
      Step1:click the detail of one the product which is listed.
