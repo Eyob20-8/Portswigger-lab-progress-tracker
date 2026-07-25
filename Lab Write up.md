@@ -2,7 +2,7 @@ Vulnerbitiy: Path transversal
 Level: Appenrentice,Practitioner
 The common Path transversal vulnerabilitys are 
 - File path traversal, simple case:
-  simply modify the parameter of filename to passwd file using relative path. 
+  simply modify the parameter of filename to passwd file using relative path.  
 - File path traversal, traversal sequences blocked with absolute path bypass
    retrive file accorfing to current directory for which doest allow the traversal sequence.
 - File path traversal, traversal sequences stripped non-recursively
