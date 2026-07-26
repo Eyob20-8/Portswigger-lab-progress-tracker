@@ -1,13 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-85-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--24
--yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-15.7%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-88-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--26-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-15.7%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 28 of 61
-- **Practitioner**: 58 of 174
+- **Practitioner**: 61 of 174
 - **Expert**: 2 of 39
 
 ## Categories Covered
@@ -131,8 +130,15 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 86  | 2026-07-24 | Cross-site scripting | Reflected XSS into HTML context with most tags and attributes blocked | Practitioner  | N/A |
 | 87  | 2026-07-24 | Cross-site scripting | Reflected XSS into HTML context with all tags blocked except custom ones | Practitioner | N/A |
 | 88  | 2026-07-24 | Cross-site scripting | Reflected XSS with some SVG markup allowed | Practitioner | N/A |
-| 89  | 2026-07-30 |   | |  | N/A |
-| 90  | 2026-07-30 |   | |  | N/A |
+| 89  | 2026-07-26 |  Cross-site scripting | Reflected XSS in canonical link tag | Practitioner | N/A |
+| 90  | 2026-07-26 |  Cross-site scripting | Reflected XSS into a JavaScript string with single quote and backslash escaped | Practitioner | N/A |
+| 91  | 2026-07-26 |  Cross-site scripting | Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped | Practitioner | N/A |
+| 77  | 2026-07-30 |   | |  | N/A |
+| 77  | 2026-07-30 |   | |  | N/A |
+| 77  | 2026-07-30 |   | |  | N/A |
+| 77  | 2026-07-30 |   | |  | N/A |
+| 77  | 2026-07-30 |   | |  | N/A |
+| 77  | 2026-07-30 |   | |  | N/A |
 | 77  | 2026-07-30 |   | |  | N/A |
 | 77  | 2026-07-30 |   | |  | N/A |
 | 77  | 2026-07-30 |   | |  | N/A |
