@@ -1,13 +1,13 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-88-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--28-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-29.7%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-97-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--28-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-29.7%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 30 of 61
-- **Practitioner**: 63 of 174
-- **Expert**: 2 of 39
+- **Practitioner**: 64 of 174
+- **Expert**: 3 of 39
 
 ## Categories Covered
 
@@ -137,8 +137,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 93  | 2026-07-28 |  SSRF | Basic SSRF against another back-end system | Apprentice | N/A |
 | 94  | 2026-07-28 | SSRF  | SSRF with blacklist-based input filter | Practitioner | N/A |
 | 95  | 2026-07-28 | SSRF  | SSRF with filter bypass via open redirection vulnerability | Practitioner | N/A |
-| 77  | 2026-07-30 |   | |  | N/A |
-| 77  | 2026-07-30 |   | |  | N/A |
+| 96  | 2026-07-29 | SSRF | Blind SSRF with out-of-band detection | Practitioner | N/A |
+| 97  | 2026-07-29 | SSRF  | Blind SSRF with Shellshock exploitation | Expert | N/A |
 | 77  | 2026-07-30 |   | |  | N/A |
 | 77  | 2026-07-30 |   | |  | N/A |
 | 77  | 2026-07-30 |   | |  | N/A |
