@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-100-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--30-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-29.7%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-103-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--30-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-29.7%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 30 of 61
-- **Practitioner**: 67 of 174
+- **Practitioner**: 70 of 174
 - **Expert**: 3 of 39
 
 ## Categories Covered
@@ -17,7 +17,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Path traversal**: 6/6 lab
 - **Command injunction**: 5/5 lab
 - **File upload vulnerability**: 13/14 lab
-- **OAuth authentication**: 13/14 lab
+- **OAuth authentication**: 5/6 lab
 - **Cross-site scripting **: 13/14 lab
 - **Race condition**: 13/14 lab
 
@@ -142,9 +142,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 98  | 2026-07-30 | Cross-site scripting  | Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped | Practitioner | N/A |
 | 99  | 2026-07-30 | Cross-site scripting  | Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped | Practitioner | N/A |
 | 100  | 2026-07-30 | Cross-site scripting  | Exploiting cross-site scripting to steal cookies | Practitioner | N/A |
-| 101  | 2026-07-30 |   | |  | N/A |
-| 102  | 2026-07-30 |   | |  | N/A |
-| 100  | 2026-08-01 |   | |  | N/A |
+| 101  | 2026-07-30 | Cross-site scripting  | Exploiting cross-site scripting to capture passwords | Practitioner | N/A |
+| 102  | 2026-07-30 | Cross-site scripting  | Exploiting XSS to bypass CSRF defenses | Practitioner | N/A |
+| 103  | 2026-08-01 | Cross-site scripting  | Reflected XSS protected by very strict CSP, with dangling markup attack | Practitioner | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
