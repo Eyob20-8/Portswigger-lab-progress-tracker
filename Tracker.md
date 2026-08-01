@@ -1,13 +1,13 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-103-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--31-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-29.7%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-105-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--01-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-29.7%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 30 of 61
 - **Practitioner**: 70 of 174
-- **Expert**: 3 of 39
+- **Expert**: 5 of 39
 
 ## Categories Covered
 
@@ -145,9 +145,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 101  | 2026-07-31 | Cross-site scripting  | Exploiting cross-site scripting to capture passwords | Practitioner | N/A |
 | 102  | 2026-07-31 | Cross-site scripting  | Exploiting XSS to bypass CSRF defenses | Practitioner | N/A |
 | 103  | 2026-07-31 | Cross-site scripting  | Reflected XSS protected by very strict CSP, with dangling markup attack | Practitioner | N/A |
-| 100  | 2026-08-01 |   | |  | N/A |
-| 100  | 2026-08-01 |   | |  | N/A |
-| 100  | 2026-08-01 |   | |  | N/A |
+| 104  | 2026-08-01 | SSRF | Blind SSRF with Shellshock exploitation | Expert | N/A |
+| 105  | 2026-08-01 |  Cross-site scripting | Reflected XSS with AngularJS sandbox escape without strings | Expert | N/A |
+| 100  | 2026-08-01 |   | | | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
