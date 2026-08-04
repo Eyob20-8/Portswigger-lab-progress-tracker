@@ -1,13 +1,13 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-105-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--01-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-29.7%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-108-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--04-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-29.7%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 30 of 61
+- **Apprentice**: 32 of 61
 - **Practitioner**: 70 of 174
-- **Expert**: 5 of 39
+- **Expert**: 6 of 39
 
 ## Categories Covered
 
@@ -20,6 +20,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **OAuth authentication**: 5/6 lab
 - **Cross-site scripting **: 13/14 lab
 - **Race condition**: 13/14 lab
+- Clickjacking:1/6
 
 
   
@@ -147,9 +148,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 103  | 2026-07-31 | Cross-site scripting  | Reflected XSS protected by very strict CSP, with dangling markup attack | Practitioner | N/A |
 | 104  | 2026-08-01 | SSRF | Blind SSRF with Shellshock exploitation | Expert | N/A |
 | 105  | 2026-08-01 |  Cross-site scripting | Reflected XSS with AngularJS sandbox escape without strings | Expert | N/A |
-| 100  | 2026-08-01 |   | | | N/A |
-| 100  | 2026-08-01 |   | |  | N/A |
-| 100  | 2026-08-01 |   | |  | N/A |
+| 106  | 2026-08-04 | Cross-site scripting  | Reflected XSS protected by CSP, with CSP bypass | Expert | N/A |
+| 107  | 2026-08-04 | Clickjackjng  | Basic clickjacking with CSRF token protection | Apprentice | N/A |
+| 108  | 2026-08-04 | Clickjacking  | Clickjacking with form input data prefilled from a URL parameter | Apprentice | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
