@@ -18,9 +18,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Command injunction**: 5/5 lab
 - **File upload vulnerability**: 13/14 lab
 - **OAuth authentication**: 5/6 lab
-- **Cross-site scripting **: 13/14 lab
+- **Cross-site scripting**: 13/14 lab
 - **Race condition**: 13/14 lab
-- Clickjacking:1/6
+- **Clickjacking**:1/6
 
 
   
