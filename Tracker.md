@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-108-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--04-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-29.7%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-110-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--05-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-29.7%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 32 of 61
-- **Practitioner**: 70 of 174
+- **Apprentice**: 33 of 61
+- **Practitioner**: 71 of 174
 - **Expert**: 6 of 39
 
 ## Categories Covered
@@ -21,6 +21,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Cross-site scripting**: 13/14 lab
 - **Race condition**: 13/14 lab
 - **Clickjacking**:1/6
+- **API testing**:2/6
 
 
   
@@ -151,8 +152,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 106  | 2026-08-04 | Cross-site scripting  | Reflected XSS protected by CSP, with CSP bypass | Expert | N/A |
 | 107  | 2026-08-04 | Clickjackjng  | Basic clickjacking with CSRF token protection | Apprentice | N/A |
 | 108  | 2026-08-04 | Clickjacking  | Clickjacking with form input data prefilled from a URL parameter | Apprentice | N/A |
-| 100  | 2026-08-01 |   | |  | N/A |
-| 100  | 2026-08-01 |   | |  | N/A |
+| 109  | 2026-08-05 |  API testing | Exploiting an API endpoint using documentation | Apprentice | N/A |
+| 110  | 2026-08-05 | API testing  | Exploiting server-side parameter pollution in a query string
+ | Practitioner | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
