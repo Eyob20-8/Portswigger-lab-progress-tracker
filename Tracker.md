@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-114-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--07-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-29.7%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-116-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--08-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-35.7%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 34 of 61
-- **Practitioner**: 74 of 174
+- **Apprentice**: 35 of 61
+- **Practitioner**: 75 of 174
 - **Expert**: 6 of 39
 
 ## Categories Covered
@@ -159,6 +159,6 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 112  | 2026-08-07 | API testing  | Exploiting a mass assignment vulnerability | Practitioner| N/A |
 | 113  | 2026-08-07 | Clickjacking  |Clickjacking with a frame buster script  |Apprentice  | N/A |
 | 114  | 2026-08-07 | Clickjacking  | Exploiting clickjacking vulnerability to trigger DOM-based XSS | Practitioner | N/A |
-| 100  | 2026-08-01 |   | |  | N/A |
-| 100  | 2026-08-01 |   | |  | N/A |
+| 115  | 2026-08-08 | Clickjacking  | Multistep clickjacking | Practitioner | N/A |
+| 116  | 2026-08-08 | Information disclosure | Information disclosure in error messages | Apprentice | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
