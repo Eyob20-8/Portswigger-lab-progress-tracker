@@ -1,11 +1,11 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-116-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--08-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-35.7%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-119-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--11-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-35.7%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 35 of 61
+- **Apprentice**: 38 of 61
 - **Practitioner**: 75 of 174
 - **Expert**: 6 of 39
 
@@ -161,4 +161,11 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 114  | 2026-08-07 | Clickjacking  | Exploiting clickjacking vulnerability to trigger DOM-based XSS | Practitioner | N/A |
 | 115  | 2026-08-08 | Clickjacking  | Multistep clickjacking | Practitioner | N/A |
 | 116  | 2026-08-08 | Information disclosure | Information disclosure in error messages | Apprentice | N/A |
+| 117  | 2026-08-11 | Information disclosure | Information disclosure on debug page | Apprentice | N/A |
+| 118  | 2026-08-11 | Information disclosure  | Source code disclosure via backup files  | Apprentice | N/A |
+| 119  | 2026-08-11 | Information disclosure  | Authentication bypass via information disclosure  | Apprentice | N/A |
+| 100  | 2026-08-01 |   | |  | N/A |
+| 100  | 2026-08-01 |   | |  | N/A |
+| 100  | 2026-08-01 |   | |  | N/A |
+| 100  | 2026-08-01 |   | |  | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
