@@ -1,11 +1,11 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-119-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--11-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-35.7%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-122-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--12-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-35.7%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 38 of 61
+- **Apprentice**: 41 of 61
 - **Practitioner**: 75 of 174
 - **Expert**: 6 of 39
 
@@ -22,6 +22,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Race condition**: 13/14 lab
 - **Clickjacking**:4/6
 - **API testing**:4/6
+- **Information disclosure**:5/6
+- **Business logic vulnerability**:3/6
 
 
   
@@ -164,6 +166,13 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 117  | 2026-08-11 | Information disclosure | Information disclosure on debug page | Apprentice | N/A |
 | 118  | 2026-08-11 | Information disclosure  | Source code disclosure via backup files  | Apprentice | N/A |
 | 119  | 2026-08-11 | Information disclosure  | Authentication bypass via information disclosure  | Apprentice | N/A |
+| 120  | 2026-08-12 | Business logic vulnerability  | Excessive trust in client-side controls | Apprentice | N/A |
+| 121  | 2026-08-12 | Business logic vulnerability  | High-level logic vulnerability | Apprentice | N/A |
+| 122  | 2026-08-12 | Business logic vulnerability  | Inconsistent security controls | Apprentice | N/A |
+| 100  | 2026-08-01 |   | |  | N/A |
+| 100  | 2026-08-01 |   | |  | N/A |
+| 100  | 2026-08-01 |   | |  | N/A |
+| 100  | 2026-08-01 |   | |  | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
