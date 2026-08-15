@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-126-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--14-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-35.7%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-130-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--15-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-35.7%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 42 of 61
-- **Practitioner**: 78 of 174
+- **Practitioner**: 82 of 174
 - **Expert**: 6 of 39
 
 ## Categories Covered
@@ -23,7 +23,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Clickjacking**:4/6
 - **API testing**:4/6
 - **Information disclosure**:5/6
-- **Business logic vulnerability**:7/10
+- **Business logic vulnerability**:11/12
 
 
   
@@ -173,6 +173,12 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 124  | 2026-08-14 | Business logic vulnerability  | Low-level logic flaw | Practitioner | N/A |
 | 125  | 2026-08-14 | Business logic vulnerability  | Inconsistent handling of exceptional input | Practitioner | N/A |
 | 126  | 2026-08-14 | Business logic vulnerability  | Weak isolation on dual-use endpoint | Practitioner | N/A |
+| 127  | 2026-08-15 | Business logic vulnerability  | Insufficient workflow validation | Practitioner | N/A |
+| 128  | 2026-08-15 | Business logic vulnerability  | Authentication bypass via flawed state machine | Practitioner  | N/A |
+| 129  | 2026-08-15 | Business logic vulnerability  | Infinite money logic flaw | Practitioner | N/A |
+| 130  | 2026-08-01 |  Business logic vulnerability | Authentication bypass via encryption oracle
+ | Practitioner | N/A |
+| 100  | 2026-08-01 |   | |  | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
