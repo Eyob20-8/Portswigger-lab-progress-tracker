@@ -176,11 +176,12 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 127  | 2026-08-15 | Business logic vulnerability  | Insufficient workflow validation | Practitioner | N/A |
 | 128  | 2026-08-15 | Business logic vulnerability  | Authentication bypass via flawed state machine | Practitioner  | N/A |
 | 129  | 2026-08-15 | Business logic vulnerability  | Infinite money logic flaw | Practitioner | N/A |
-| 130  | 2026-08-01 |  Business logic vulnerability | Authentication bypass via encryption oracle
+| 130  | 2026-08-15 |  Business logic vulnerability | Authentication bypass via encryption oracle
  | Practitioner | N/A |
-| 100  | 2026-08-01 |   | |  | N/A |
-| 100  | 2026-08-01 |   | |  | N/A |
-| 100  | 2026-08-01 |   | |  | N/A |
+| 131  | 2026-08-25 | CSRF | CSRF vulnerability with no defenses | Apprentice | N/A |
+| 132  | 2026-08-25 | CSRF  | CSRF where token validation depends on request method | Practitioner | N/A |
+| 133  | 2026-08-25| CSRF  | CSRF where token validation depends on token being present
+ | Practitioner | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
