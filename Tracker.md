@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-133-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--15-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-35.7%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-138-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--27-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-35.7%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 43 of 61
-- **Practitioner**: 84 of 174
+- **Practitioner**: 89 of 174
 - **Expert**: 6 of 39
 
 ## Categories Covered
@@ -183,6 +183,15 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 132  | 2026-08-25 | CSRF  | CSRF where token validation depends on request method | Practitioner | N/A |
 | 133  | 2026-08-25| CSRF  | CSRF where token validation depends on token being present
  | Practitioner | N/A |
+| 134  | 2026-08-27 | CSRF  | CSRF where token is not tied to user session | Practitioner | N/A |
+| 135  | 2026-08-27 | CSRF  | CSRF where token is tied to non-session cookie | Practitioner | N/A |
+| 136  | 2026-08-27 | CSRF  | CSRF where token is duplicated in cookie | Practitioner | N/A |
+| 137  | 2026-08-27 | CSRF  | SameSite Lax bypass via method override | Practitioner | N/A |
+| 138  | 2026-08-27 | CSRF  | SameSite Strict bypass via client-side redirect | Practitioner | N/A |
+| 100  | 2026-08-01 |   | |  | N/A |
+| 100  | 2026-08-01 |   | |  | N/A |
+| 100  | 2026-08-01 |   | |  | N/A |
+| 100  | 2026-08-01 |   | |  | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
