@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-141-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--01-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-35.7%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-143-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--02-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-35.7%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 43 of 61
-- **Practitioner**: 95 of 174
+- **Practitioner**: 97 of 174
 - **Expert**: 6 of 39
 
 ## Categories Covered
@@ -25,7 +25,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Information disclosure**:5/6
 - **Business logic vulnerability**:11/12
 - **CSRF**:10/10
-- **SSTI**:3/6
+- **SSTI**:5/6
 
 
   
@@ -195,4 +195,16 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 142  | 2026-09-01 | SSTI  | Basic server-side template injection  | Practitioner | N/A |
 | 143  | 2026-09-01 | SSTI  | Basic server-side template injection (code context) | Practitioner  | N/A |
 | 144  | 2026-09-01 | SSTI  | Server-side template injection using documentation | Practitioner | N/A |
+| 145  | 2026-09-02 | SSTI  | Server-side template injection in an unknown language with a documented exploit | Practitioner | N/A |
+| 100  | 2026-08-01 | SSTI  | Server-side template injection with information disclosure via user-supplied objects | Practitioner | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
+| 100  | 2026-08-01 |   | |  | N/A |
+| 100  | 2026-08-01 |   | |  | N/A |
+| 100  | 2026-08-01 |   | |  | N/A |
+| 100  | 2026-08-01 |   | |  | N/A |
+| 100  | 2026-08-01 |   | |  | N/A |
+| 100  | 2026-08-01 |   | |  | N/A |
+| 100  | 2026-08-01 |   | |  | N/A |
+| 100  | 2026-08-01 |   | |  | N/A |
+| 100  | 2026-08-01 |   | |  | N/A |
+
