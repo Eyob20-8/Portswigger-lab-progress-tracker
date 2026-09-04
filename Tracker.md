@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-149-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--03-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-55.7%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-152-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--04-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-55.7%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 45 of 61
-- **Practitioner**: 98 of 174
+- **Practitioner**: 101 of 174
 - **Expert**: 6 of 39
 
 ## Categories Covered
@@ -200,9 +200,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 147  | 2026-09-03 | HTTP Host header attacks | Basic password reset poisoning | Apprentice | N/A |
 | 148  | 2026-09-03 | HTTP Host header attacks  | Host header authentication bypass | Apprentice | N/A |
 | 149  | 2026-09-03 |  HTTP Host header attacks | Web cache poisoning via ambiguous requests | Practitioner | N/A |
-| 100  | 2026-08-01 |   | |  | N/A |
-| 100  | 2026-08-01 |   | |  | N/A |
-| 100  | 2026-08-01 |   | |  | N/A |
+| 150  | 2026-09-04 | HTTP Host header attacks | Routing-based SSRF | Practitioner | N/A |
+| 151  | 2026-09-04 | HTTP Host header attacks  | SSRF via flawed request parsing  | Practitioner | N/A |
+| 152  | 2026-09-04 | HTTP Host header attacks  | Host validation bypass via connection state attack | Practitioner | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
