@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-158-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--09-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-55.7%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-161-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--10-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-55.7%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 45 of 61
-- **Practitioner**: 107 of 174
+- **Practitioner**: 110 of 174
 - **Expert**: 6 of 39
 
 ## Categories Covered
@@ -27,7 +27,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **CSRF**:10/10
 - **SSTI**:5/6
 - **HTTP Host header attacks**:3/6
-- **Htttp request smuggling**:3/6
+- **Htttp request smuggling**:9/14
 
 
   
@@ -210,8 +210,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 156  | 2026-08-09 | HTTP request smuggling  | Exploiting HTTP request smuggling to bypass front-end security controls, TE.CL vulnerability | Practitioner | N/A |
 | 157  | 2026-08-09 | HTTP request smuggling  | Exploiting HTTP request smuggling to reveal front-end request rewriting | Practitioner | N/A |
 | 158  | 2026-08-09 | HTTP request smuggling  | Exploiting HTTP request smuggling to capture other users' requests | Practitioner | N/A |
-| 100  | 2026-08-01 |   | |  | N/A |
-| 100  | 2026-08-01 |   | |  | N/A |
-| 100  | 2026-08-01 |   | |  | N/A |
+| 159  | 2026-08-10 | HTTP request smuggling  | Exploiting HTTP request smuggling to deliver reflected XSS | Practitioner | N/A |
+| 160  | 2026-08-10 | HTTP request smuggling  | Response queue poisoning via H2.TE request smuggling | Practitioner | N/A |
+| 161  | 2026-08-10 |HTTP request smuggling   | H2.CL request smuggling | Practitioner | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
 | 100  | 2026-08-01 |   | |  | N/A |
