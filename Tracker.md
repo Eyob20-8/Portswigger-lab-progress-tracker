@@ -159,8 +159,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 107  | 2026-08-04 | Clickjackjng  | Basic clickjacking with CSRF token protection | Apprentice | N/A |
 | 108  | 2026-08-04 | Clickjacking  | Clickjacking with form input data prefilled from a URL parameter | Apprentice | N/A |
 | 109  | 2026-08-05 |  API testing | Exploiting an API endpoint using documentation | Apprentice | N/A |
-| 110  | 2026-08-05 | API testing  | Exploiting server-side parameter pollution in a query string
- | Practitioner | N/A |
+| 110  | 2026-08-05 | API testing  | Exploiting server-side parameter pollution in a query string| Practitioner | N/A |
 | 111  | 2026-08-07 | API testing  | Finding and exploiting an unused API endpoint | Practitioner | N/A |
 | 112  | 2026-08-07 | API testing  | Exploiting a mass assignment vulnerability | Practitioner| N/A |
 | 113  | 2026-08-07 | Clickjacking  |Clickjacking with a frame buster script  |Apprentice  | N/A |
